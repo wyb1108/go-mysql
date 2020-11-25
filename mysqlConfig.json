@@ -1,0 +1,9 @@
+{
+  "host": "127.0.0.1",
+  "port": 3306,
+  "schema": "example",
+  "username": "admin",
+  "password":"admin",
+  "maxOpenConn": 500,
+  "maxIdleConn": 100
+}
